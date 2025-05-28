@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Air Force 1",
+      "price": 119.99,
+      "sizes": ["39", "40", "41", "42", "43"],
+      "image": "https://nax.altervista.org/img/f9.png",
+      "category": "sneakers"
+    },
+    {
+      "id": 2,
+      "name": "Air Max Plus",
+      "price": 139.99,
+      "sizes": ["40", "41", "42", "43", "44"],
+      "image": "https://nax.altervista.org/img/f10.png",
+      "category": "sneakers"
+    },
+    {
+      "id": 3,
+      "name": "P-6000",
+      "price": 110.00,
+      "sizes": ["40", "41", "42", "43", "44"],
+      "image": "https://nax.altervista.org/img/f11.png",
+      "category": "sneakers"
+    },
+    {
+      "id": 4,
+      "name": "Shox",
+      "price": 125.00,
+      "sizes": ["39", "40", "41", "42", "43"],
+      "image": "https://nax.altervista.org/img/f12.png",
+      "category": "sneakers"
+    },
+    {
+      "id": 5,
+      "name": "Jordan 1 Low",
+      "price": 150.00,
+      "sizes": ["40", "41", "42", "43", "44"],
+      "image": "https://nax.altervista.org/img/f13.png",
+      "category": "sneakers"
+    },
+    {
+      "id": 6,
+      "name": "Pegasus",
+      "price": 130.00,
+      "sizes": ["39", "40", "41", "42", "43"],
+      "image": "https://nax.altervista.org/img/f14.png",
+      "category": "running"
+    },
+    {
+      "id": 7,
+      "name": "Vomero",
+      "price": 140.00,
+      "sizes": ["40", "41", "42", "43", "44"],
+      "image": "https://nax.altervista.org/img/f15.png",
+      "category": "running"
+    },
+    {
+      "id": 8,
+      "name": "Metcon",
+      "price": 115.00,
+      "sizes": ["39", "40", "41", "42", "43"],
+      "image": "https://nax.altervista.org/img/f16.png",
+      "category": "training"
+    },
+    {
+      "id": 9,
+      "name": "Mercurial",
+      "price": 145.00,
+      "sizes": ["40", "41", "42", "43", "44"],
+      "image": "https://nax.altervista.org/img/f17.png",
+      "category": "football"
+    }
+  ]
+}
