@@ -7,7 +7,7 @@
       "sizes": ["39", "40", "41", "42", "43"],
       "image": "https://nax.altervista.org/img/f9.png",
       "category": "sneakers", 
-      "link": "/nike/airforce.php"
+      "link": "airforce.php"
     },
     {
       "id": 2,
