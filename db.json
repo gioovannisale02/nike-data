@@ -7,7 +7,8 @@
       "sizes": ["39", "40", "41", "42", "43"],
       "image": "https://nax.altervista.org/img/f9.png",
       "category": "sneakers", 
-      "link": "airforce.php"
+      "link": "airforce.php",
+      "family": "show"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "sizes": ["40", "41", "42", "43", "44"],
       "image": "https://nax.altervista.org/img/f10.png",
       "category": "sneakers",
-      "link": "airmax.php"
+      "link": "airmax.php",
+      "family": "show"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "sizes": ["40", "41", "42", "43", "44"],
       "image": "https://nax.altervista.org/img/f11.png",
       "category": "sneakers",
-      "link": "p-6000.php"
+      "link": "p-6000.php",
+      "family": "show"
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "sizes": ["39", "40", "41", "42", "43"],
       "image": "https://nax.altervista.org/img/f12.png",
       "category": "sneakers",
-      "link": "shox.php"
+      "link": "shox.php",
+      "family": "show"
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "sizes": ["40", "41", "42", "43", "44"],
       "image": "https://nax.altervista.org/img/f13.png",
       "category": "sneakers",
-      "link": "jordan1.php"
+      "link": "jordan1.php",
+      "family": "show"
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "sizes": ["39", "40", "41", "42", "43"],
       "image": "https://nax.altervista.org/img/f14.png",
       "category": "running",
-      "link": "pegasus.php"
+      "link": "pegasus.php",
+      "family": "show"
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "sizes": ["40", "41", "42", "43", "44"],
       "image": "https://nax.altervista.org/img/f15.png",
       "category": "running",
-      "link": "vomero.php"
+      "link": "vomero.php",
+      "family": "show"
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "sizes": ["39", "40", "41", "42", "43"],
       "image": "https://nax.altervista.org/img/f16.png",
       "category": "training",
-      "link": "metcon.php"
+      "link": "metcon.php",
+      "family": "show"
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "sizes": ["40", "41", "42", "43", "44"],
       "image": "https://nax.altervista.org/img/f17.png",
       "category": "football",
-      "link": "mercurial.php"
+      "link": "mercurial.php",
+      "family": "show"
     },
     {
       "id": 10,
