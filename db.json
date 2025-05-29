@@ -7,7 +7,8 @@
       "sizes": ["39", "40", "41", "42", "43"],
       "image": "https://nax.altervista.org/img/f9.png",
       "category": "sneakers", 
-      "link": "airforce.php"
+      "link": "airforce.php", 
+      "family": "Air Force"
     },
     {
       "id": 2,
@@ -80,6 +81,106 @@
       "image": "https://nax.altervista.org/img/f17.png",
       "category": "football",
       "link": "mercurial.php"
+    },
+    {
+      "id": 10,
+      "name": "Nike Air Force 1 LE",
+      "price": 94.99,
+      "sizes": ["39", "40", "41", "42", "43"],
+      "image": "https://nax.altervista.org/img/f9.png",
+      "category": "sneakers",
+      "link": "dettaglio.php",
+      "family": "Air Force"
+    },
+    {
+      "id": 11,
+      "name": "Nike Air Force 1 '07",
+      "price": 119.99,
+      "sizes": ["40", "41", "42", "43", "44"],
+      "image": "https://nax.altervista.org/img/f18.png",
+      "category": "sneakers",
+      "link": "dettaglio.php",
+      "family": "Air Force"
+    },
+    {
+      "id": 12,
+      "name": "Nike Air Force 1 Flyknit 2.0",
+      "price": 119.99,
+      "sizes": ["39", "40", "41", "42", "43"],
+      "image": "https://nax.altervista.org/img/f19.png",
+      "category": "sneakers",
+      "link": "dettaglio.php",
+      "family": "Air Force"
+    },
+    {
+      "id": 13,
+      "name": "Nike Air Force",
+      "price": 99.99,
+      "sizes": ["40", "41", "42", "43", "44"],
+      "image": "https://nax.altervista.org/img/f20.png",
+      "category": "sneakers",
+      "link": "dettaglio.php",
+      "family": "Air Force"
+    },
+    {
+      "id": 14,
+      "name": "Nike Force 1 Low EasyOn",
+      "price": 59.99,
+      "sizes": ["39", "40", "41", "42", "43"],
+      "image": "https://nax.altervista.org/img/f21.png",
+      "category": "sneakers",
+      "link": "dettaglio.php",
+      "family": "Air Force"
+    },
+    {
+      "id": 15,
+      "name": "Nike Air Force 1 Luxe",
+      "price": 139.99,
+      "sizes": ["40", "41", "42", "43", "44"],
+      "image": "https://nax.altervista.org/img/f22.png",
+      "category": "sneakers",
+      "link": "dettaglio.php",
+      "family": "Air Force"
+    },
+    {
+      "id": 16,
+      "name": "Nike Air Force 1 '07 LV8",
+      "price": 119.99,
+      "sizes": ["39", "40", "41", "42", "43"],
+      "image": "https://nax.altervista.org/img/f23.png",
+      "category": "sneakers",
+      "link": "dettaglio.php",
+      "family": "Air Force"
+    },
+    {
+      "id": 17,
+      "name": "Nike Air Force 1 Low Canvas",
+      "price": 119.99,
+      "sizes": ["40", "41", "42", "43", "44"],
+      "image": "https://nax.altervista.org/img/f24.png",
+      "category": "sneakers",
+      "link": "dettaglio.php",
+      "family": "Air Force"
+    },
+    {
+      "id": 18,
+      "name": "Nike Air Force 1 LV8 2",
+      "price": 99.99,
+      "sizes": ["39", "40", "41", "42", "43"],
+      "image": "https://nax.altervista.org/img/f25.png",
+      "category": "sneakers",
+      "link": "dettaglio.php",
+      "family": "Air Force"
+    },
+    {
+      "id": 19,
+      "name": "Nike Air Force 1 Low Retro",
+      "price": 149.99,
+      "sizes": ["40", "41", "42", "43", "44"],
+      "image": "https://nax.altervista.org/img/f26.png",
+      "category": "sneakers",
+      "link": "dettaglio.php",
+      "family": "Air Force"
     }
   ]
 }
