@@ -322,21 +322,23 @@
     },
     {
       "id": 33,
-      "name": "Nike Shox R4",
-      "price": 139.99,
+      "name": "Nike P-6000",
+      "price": 84.99,
       "sizes": ["40", "41", "42", "43", "44"],
       "image": "https://nax.altervista.org/img/f41.png",
       "category": "sneakers",
-      "link": "dettaglio.php"
+      "link": "dettaglio.php",
+      "family": "P-6000"
     },
     {
       "id": 34,
-      "name": "Nike Shox R4",
-      "price": 129.99,
+      "name": "Nike P-6000",
+      "price": 84.99,
       "sizes": ["39", "40", "41", "42", "43"],
       "image": "https://nax.altervista.org/img/f42.png",
       "category": "sneakers",
-      "link": "dettaglio.php"
+      "link": "dettaglio.php",
+      "family": "P-6000"
     },
     {
       "id": 35,
